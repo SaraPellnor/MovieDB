@@ -1,8 +1,13 @@
+import Header from "./assets/Components/Header/Header"
+import Footer from "./assets/Components/Footer/Footer"
+import Main from "./assets/Components/Main/Main"
 function App() {
   
  return (
     <>
-      <h1>MovieDB</h1>
+      <Header />
+      <Main />
+      <Footer />
     </>
   )
 }
