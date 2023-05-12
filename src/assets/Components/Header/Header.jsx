@@ -6,7 +6,7 @@ const Header = () => {
 
     return (
         <header>
-            <h1>Movie DB</h1>
+            <h1>Movie<span>DB</span></h1>
             <div className="header-right--div">
                 <NavLinks />
                 <MyMovies />

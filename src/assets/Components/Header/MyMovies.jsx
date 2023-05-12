@@ -1,8 +1,9 @@
+import { BsEye } from 'react-icons/all';
 const MyMovies = () => {
 
     return (
         <div className="eye--div">
-            <i className="fa-solid fa-eye"></i>
+            <BsEye />
             <p>0</p>
         </div>
     )

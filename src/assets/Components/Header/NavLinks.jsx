@@ -2,9 +2,9 @@ const NavLinks = () => {
 
     return (
 <ul>
-    <li>Movies</li>
-    <li>About</li>
-    <li>Contact</li>
+    <li>MOVIES</li>
+    <li>ABOUT</li>
+    <li>CONTACT</li>
 </ul>
     )
 }
