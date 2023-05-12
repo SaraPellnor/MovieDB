@@ -1,5 +1,6 @@
 import NavLinks from "./NavLinks"
 import MyMovies from "./MyMovies"
+import "./header.css"
 
 const Header = () => {
 

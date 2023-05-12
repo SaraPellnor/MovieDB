@@ -1,5 +1,5 @@
 import MovieList from "./MovieList/MovieList"
-
+import "./main.css"
 
 const Main = () => {
     return(
