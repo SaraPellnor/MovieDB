@@ -1,4 +1,4 @@
-import MarkAsSeenBtn from "./MarkAsSeenBtn/MarkAsSeenBtn"
+import MarkAsSeenBtn from "../MarkAsSeenBtn/MarkAsSeenBtn"
 
 
 const MovieDetails = () => {

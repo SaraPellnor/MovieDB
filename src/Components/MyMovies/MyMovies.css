@@ -1,0 +1,21 @@
+.eye--div {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+}
+
+.eye--div>p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: -11px;
+    top: -10px;
+    border-radius: 50%;
+    height: 1.2em;
+    width: 1.2em;
+    background-color: rgb(232, 232, 146);
+    color: black;
+}

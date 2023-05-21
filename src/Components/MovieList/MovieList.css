@@ -1,0 +1,26 @@
+.movieList--Wrap {
+    background-color: rgb(243, 137, 38);
+    height: 100%;
+    margin-bottom: 4em;
+}
+
+.movieList--Div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1em;
+    color: whitesmoke;
+    text-shadow: 10px 10px 10px black;
+    
+}
+
+.movie {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    border: solid 1px black;
+    width: 8em;
+    height: 13em;
+    padding: 1em;
+}

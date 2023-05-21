@@ -1,5 +1,5 @@
-import NavLinks from "./NavLinks"
-import MyMovies from "./MyMovies"
+import NavLinks from "../NavLinks/NavLinks"
+import MyMovies from "../MyMovies/MyMovies"
 import "./header.css"
 
 const Header = () => {
