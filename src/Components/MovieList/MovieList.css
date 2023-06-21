@@ -5,6 +5,7 @@
 }
 
 .movieList--Div {
+    margin-top: 2em;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -12,15 +13,4 @@
     color: whitesmoke;
     text-shadow: 10px 10px 10px black;
     
-}
-
-.movie {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    text-align: center;
-    border: solid 1px black;
-    width: 8em;
-    height: 13em;
-    padding: 1em;
 }
